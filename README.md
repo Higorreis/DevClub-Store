@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>DevClub Store</h1>
 <h2>📄 Sobre o projeto: </h2>
 <p>Projeto desenvolvido no Canal do youtube de @Rodolfo Mori. Site bastante visual e interativo. O dinamismo  do site não depende apenas da ação do usuário, pois o proprio site consegue criar ações sem precisa de nenhum clique. Foi feito apenas a versão Desktop mas a implementação Mobile já esta sendo iniciada. 👀</p>
@@ -11,7 +10,4 @@
  <h2>📷 Imagem:</h2>
  <img src="./img/DevClub_Tela.png">
  
-=======
-#DevClub Store: Projeto de loja de Eletrônicos utilizando HTML, CSS e JS. Projeto interativos e visual, com conceitos modernos e dinâmicos para os usuários.
->>>>>>> f3e4605f2e6bac0d8b22d426e6c0a696df6fdf20
 

@@ -7,8 +7,13 @@
    <img align="center" height="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
    <img align="center" height="30" width="40 " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  </div>
- <h2>📷 Imagem:</h2>
+ <h2>📷 Imagem e Videos:</h2>
  <img src="./img/DevClub_Tela.png">
+ 
+
+https://github.com/user-attachments/assets/c715f110-7e2c-4750-b9c1-5cccfa5283f7
+
+
  <h2>🔗 Link do Projeto:</h2>
  https://higorreis.github.io/DevClub-Store/
  

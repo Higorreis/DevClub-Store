@@ -24,6 +24,9 @@ header {
     align-items: center;
     z-index: 3;
 }
+.button-responsividade{
+    display: none;
+}
 
 .logo {
     font-family: "Orbitron", sans-serif;
@@ -350,4 +353,48 @@ header nav ul li:hover::after {
     height: 120px;
     top: 20%;
     left: 70%;
+}
+@media screen and (max-width:900px) {
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+    header nav ul{
+        display: none;
+    }
+    .list{
+        display: flex;
+        justify-content: center;
+    }
+    
+   .item{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+   }
+   .content{
+    margin-top: 150px;
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+   }
+   .content .product-name{
+    font-size: 20px;
+   }
+   .product-image{
+    display: flex;
+    width:80%;
+    height: 80%;
+    margin-bottom: 100px;
+   }
+   .product-image img{
+    position: relative;
+    max-width: 70%;
+    max-height: 70%;
+    padding: 0;
+    top: 0;
+   }
+
 }
